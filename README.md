@@ -1,11 +1,6 @@
 # Welcome to my GitHub page 👋
 <!-- <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/gifs/waving_hand.gif" alt="welcome" width="33" height="33" /> -->
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/gifs/Aras_Gungore_2.gif" alt="Aras Gungore" width="433" height="74" />
-</div>
-
-
 ## 👤 About Me
 
 Hi there, my name is Aras Güngöre.
