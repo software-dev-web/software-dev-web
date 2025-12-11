@@ -5,8 +5,6 @@
 
 ## 👤 About Me
 
-Hi there, my name is Daniel Nowak.
-
 I am a dynamic and detail-oriented Senior Software Engineer with over 7 years of experience in designing, developing, and implementing software solutions.
 Proven expertise in full software development life cycle, from requirements gathering to deployment and maintenance.
 Strong proficiency in various programming languages, frameworks, and technologies, with a focus on delivering highquality, scalable, and efficient applications.
